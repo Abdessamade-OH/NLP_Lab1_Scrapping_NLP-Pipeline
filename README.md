@@ -13,7 +13,7 @@
 
 <h2>Data Acquisition</h2>
 
-<p>Scrapy, a web scraping framework, was employed along with Beautiful Soup, a parsing library, to extract disease information from the website. The scraping process targeted three distinct layers:</p>
+<p>Scrapy, a web scraping framework, was employed to extract disease information from the website. The scraping process targeted three distinct layers:</p>
 
 <ul>
   <li>Disease types</li>
